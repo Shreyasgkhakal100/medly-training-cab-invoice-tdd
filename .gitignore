@@ -6,6 +6,7 @@ node_modules/
 !/.projen/files.json
 build/
 target/
+gradle.properties
 node_modules
 yarn.lock
 .DS_Store
